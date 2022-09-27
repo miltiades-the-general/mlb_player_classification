@@ -1,3 +1,3 @@
 # MLB Player Machine Learning Exploration
 
-## Summary 
+Enter this application through the web_scraping directory.
